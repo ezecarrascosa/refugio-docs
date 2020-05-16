@@ -1,4 +1,4 @@
-# ![Refugio icon](icon.svg) [Refugio] Repositorio de documentación
+# ![Refugio icon](icon.svg) [Refug.io] Repositorio de documentación
 
 
 
